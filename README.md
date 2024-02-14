@@ -1,2 +1,2 @@
-# Task-Manager-Terminal-based-
+# Task-Manager-Terminal-based
 Python
